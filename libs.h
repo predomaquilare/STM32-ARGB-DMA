@@ -9,7 +9,6 @@
 #ifndef LIBS_H_
 #define LIBS_H_
 
-#include "main.h"    ///< Main project file
 #include <stdlib.h>  ///< Standard library
 #include <stdint.h>  ///< Std types
 #include <stdbool.h> ///< _Bool to bool
